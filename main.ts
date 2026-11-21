@@ -1,7 +1,8 @@
-// Short: https://www.youtube.com/shorts/vm7O-ZNFD_I (53s, 1080x1920).
-// Entry video: IShowSpeed's car explodes in a 3-star police chase — cut by the
-// agent from the Speed GTA 6 stream (zoneA 803-845) and published as a public
-// Short on ViceVortex; VIDEO.json names it.
+// Entry clip: IShowSpeed's car blows up in a huge fireball during a 3-star
+// police chase in GTA 6 — cut from the Speed stream (zoneA 803-845) into a
+// 53-second vertical Short (1080x1920) on the ViceVortex channel:
+// https://www.youtube.com/shorts/vm7O-ZNFD_I — VIDEO.json points at that video,
+// and this program just copies it to /output so the gate can read it.
 //
 // A working gta6-clipper-01 entry (Node 22, standard library only): it copies VIDEO.json from the repository root to
 // /output/VIDEO.json, where the gate reads it. That is all the program has to do. The entry is the video itself: your
