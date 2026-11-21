@@ -4,6 +4,8 @@
 // https://www.youtube.com/shorts/vm7O-ZNFD_I — VIDEO.json points at that video,
 // and this program just copies it to /output so the gate can read it.
 //
+// Hook text: "HIS CAR JUST EXPLODED", burned in for the first 4 seconds.
+// Published Sat Nov 21, 2026, as a public Short on the ViceVortex channel.
 // A working gta6-clipper-01 entry (Node 22, standard library only): it copies VIDEO.json from the repository root to
 // /output/VIDEO.json, where the gate reads it. That is all the program has to do. The entry is the video itself: your
 // agent finds a GTA 6 moment, cuts it into a vertical clip, the clip is uploaded to YouTube as a public Short or video
